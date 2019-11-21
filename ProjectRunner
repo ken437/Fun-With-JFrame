@@ -1,0 +1,19 @@
+package jframestuff;
+
+/**
+ * Contains the main method
+ */
+public class ProjectRunner {
+    
+    /**
+     * Executes when the "run" button is clicked
+     * 
+     * @param args possible input value to change the
+     * behavior of the app
+     */
+    public static void main(String[] args)
+    {
+        new JFrameWindow();
+    }
+
+}
